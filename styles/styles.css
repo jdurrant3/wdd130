@@ -4,7 +4,7 @@
   box-sizing: border-box;  
 }
 body {
-    font-size: 15px;
+    font-size: 14px;
 }
 header, footer, .grid {
     border-top: 1px solid #000;
