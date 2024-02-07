@@ -10,6 +10,7 @@ header, footer, .grid {
     border-top: 1px solid #000;
     max-width: 840px;
     margin: 0, auto;
+    align-items: center;
     text-align: center;
 }
 nav {
