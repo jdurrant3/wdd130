@@ -9,7 +9,7 @@ body {
 header, footer, .grid {
     border-top: 1px solid #000;
     max-width: 840px;
-    margin: 0, auto;
+    margin: 0 auto;
     align-items: center;
     text-align: center;
 }
@@ -39,7 +39,7 @@ img {
     height: auto;
     padding: 1px;
     box-shadow: 0 0 50px gray;
-    margin: 0, auto;
+    margin: 0 auto;
 }
 .grid {
     display: grid;
@@ -55,7 +55,9 @@ main img{
     width: 145px;
     height: auto;
     float: right;
+
 }
+
 aside {
     width: 20rem;
     position: relative;
